@@ -4,3 +4,6 @@
 [submodule "tdd-angular-seed"]
 	path = tdd-angular-seed
 	url = git@github.com:Pragmatists/tdd-angular-seed.git
+[submodule "whack-a-mole-angularjs"]
+	path = whack-a-mole-angularjs
+	url = git@github.com:Pragmatists/whack-a-mole-angularjs.git
