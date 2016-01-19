@@ -1,0 +1,6 @@
+[submodule "barbershop"]
+	path = barbershop
+	url = git@github.com:Pragmatists/barbershop.git
+[submodule "tdd-angular-seed"]
+	path = tdd-angular-seed
+	url = git@github.com:Pragmatists/tdd-angular-seed.git
