@@ -7,3 +7,6 @@
 [submodule "whack-a-mole-angularjs"]
 	path = whack-a-mole-angularjs
 	url = git@github.com:Pragmatists/whack-a-mole-angularjs.git
+[submodule "fizzbuzz-kata-js"]
+	path = fizzbuzz-kata-js
+	url = git@github.com:Pragmatists/fizzbuzz-kata-js.git
