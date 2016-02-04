@@ -13,3 +13,6 @@
 [submodule "snow-mocks-kata-javascript"]
 	path = snow-mocks-kata-javascript
 	url = git@github.com:Pragmatists/snow-mocks-kata-javascript.git
+[submodule "tdd-angular-directives"]
+	path = tdd-angular-directives
+	url = git@github.com:Pragmatists/tdd-angular-directives.git
