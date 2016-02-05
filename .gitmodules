@@ -16,3 +16,6 @@
 [submodule "tdd-angular-directives"]
 	path = tdd-angular-directives
 	url = git@github.com:Pragmatists/tdd-angular-directives.git
+[submodule "jasmine-koans"]
+	path = jasmine-koans
+	url = git@github.com:Pragmatists/jasmine-koans.git
