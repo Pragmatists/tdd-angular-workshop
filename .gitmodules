@@ -19,3 +19,6 @@
 [submodule "jasmine-koans"]
 	path = jasmine-koans
 	url = git@github.com:Pragmatists/jasmine-koans.git
+[submodule "smelly-hangman"]
+	path = smelly-hangman
+	url = https://github.com/Pragmatists/smelly-hangman.git
