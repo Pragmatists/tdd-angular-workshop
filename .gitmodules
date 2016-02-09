@@ -22,3 +22,6 @@
 [submodule "smelly-hangman"]
 	path = smelly-hangman
 	url = https://github.com/Pragmatists/smelly-hangman.git
+[submodule "tdd-protractor-checklist"]
+	path = tdd-protractor-checklist
+	url = https://github.com/Pragmatists/tdd-protractor-checklist.git
