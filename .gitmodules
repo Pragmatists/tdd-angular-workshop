@@ -28,3 +28,6 @@
 [submodule "stack-kata-js"]
 	path = stack-kata-js
 	url = git@github.com:Pragmatists/stack-kata-js.git
+[submodule "tdd-angular-mocha-chai-sinon"]
+	path = tdd-angular-mocha-chai-sinon
+	url = https://github.com/Pragmatists/tdd-angular-mocha-chai-sinon.git
