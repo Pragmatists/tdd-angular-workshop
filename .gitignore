@@ -4,3 +4,6 @@
 
 # Apple OS X
 .DS_Store
+
+# NodeJS
+npm-debug.log
